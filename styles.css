@@ -1,0 +1,28 @@
+.thumbnail {
+  width: 100%;
+  height: auto;
+}
+
+.thumbnail-container {
+  position: relative;
+  text-align: center;
+}
+
+.thumbnail-centerText {
+  color: white;
+  font-size: 1.2rem;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-shadow: 1px 1px #000;
+}
+
+.hero-font {
+  font-size: 3.6rem;
+}
+.smaller {
+  font-size: x-small;
+  font-family: "Lora", serif;
+}
